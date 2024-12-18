@@ -1,1 +1,2 @@
 # meeting-summerizer
+In the fast-paced world of business, numerous phone calls and meetings occur where critical decisions are made by various participants. Traditionally, someone would manually take notes during these discussions and distribute them to attendees to confirm the outcomes. By leveraging voice-to-text technologies and implementing AI capable of understanding the conversation’s context, it is possible to automate the meeting summary process efficiently. 
